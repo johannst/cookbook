@@ -2,3 +2,4 @@
 
 - `tsp` teaspoon
 - `tbsp` tablespoon
+- `pcs` pieces
