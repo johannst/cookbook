@@ -1,0 +1,10 @@
+[book]
+authors = ["johannst"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Cookbook"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "ayu"
