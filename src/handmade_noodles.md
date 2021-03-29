@@ -8,11 +8,14 @@ For `one bowl`:
 - backing powder `1/2 tsp`
 
 ## Instructions
+### Prepare the dough
 1. Mix dry ingredients.
 1. Slowly add water and stir to moisture all of the flour.
 1. Knead the dough for `5-10min`.
 1. Wrap the dough using cling wrap and let it rest for `1-2h`.
 1. Knead the dough to remove all air.
+
+### Make the noodles
 1. With a rolling pin flatten it to `~2mm`.
 1. Dust both sides of the dough with a good amount of flour.
 1. Carefully fold it into `~3-4 layers`.

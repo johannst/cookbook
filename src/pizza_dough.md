@@ -1,4 +1,4 @@
-# Pizza dough
+# Pizza Dough
 
 ## Ingredients
 For `one baking tray`:

@@ -1,4 +1,4 @@
-# Dumpling skin (饺子皮)
+# Dumpling Skin (饺子皮)
 
 ## Ingredients
 For `18 wrappers`:
