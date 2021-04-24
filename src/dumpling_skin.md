@@ -1,7 +1,7 @@
 # Dumpling Skin (饺子皮)
 
 ## Ingredients
-For `18 wrappers`:
+For `20 wrappers`:
 - flour `150g`
 - water (lukewarm) `75ml`
 
@@ -15,5 +15,5 @@ For `18 wrappers`:
 
 ### Roll the wrappers
 1. Split the dough in half and put one half back into the freezing bag.
-1. Roll the other half and split into `~9 pcs`.
+1. Roll the other half and split into `10 pcs` (`~11g` each).
 1. Form small disks and roll the wrappers using a rolling pin.
