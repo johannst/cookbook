@@ -10,5 +10,6 @@
 - [Chili Oil](./chili_oil.md)
 - [Handmade Noodles (手工面)](./handmade_noodles.md)
 - [Steamed Rice](./steamed_rice.md)
+- [Steamed Egg](./steamed_egg.md)
 
 [Abbreviations](./abbr.md)
