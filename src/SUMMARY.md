@@ -9,5 +9,6 @@
 - [Dumpling Skin (饺子皮)](./dumpling_skin.md)
 - [Chili Oil](./chili_oil.md)
 - [Handmade Noodles (手工面)](./handmade_noodles.md)
+- [Steamed Rice](./steamed_rice.md)
 
 [Abbreviations](./abbr.md)
